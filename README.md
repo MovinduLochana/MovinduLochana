@@ -5,7 +5,7 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/movindu-lochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/movindu-lochana" height="30" width="40" /></a>
-<a href="https://twitter.com/MovinduLochana2" target="blank"><img src="https://img.shields.io/twitter/follow/movindu?logo=twitter&style=for-the-badge" alt="movindu" /></a> </p>
+<a href="https://twitter.com/MovinduLochana2" target="blank"><img src="https://img.shields.io/twitter/follow/movindu?logo=twitter&style=for-the-badge" alt="movindu" /></a>
 <a href="https://twitter.com/MovinduLochana2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="movindu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/movindu_lochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="movindulochana.395" height="30" width="40" /></a>
 </p>
