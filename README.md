@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Movindu Lochana</h1>
-<h3 align="center">Java, Python, Javascript</h3>
+<h3 align="center">Passionate and results-driven Full Stack Developer with a robust skill set in Java, Python, Go, and JavaScript. With a solid background in DevOps practices and a deep understanding of CI/CD pipelines, Kubernetes, and Docker, automating deployments, and ensuring seamless integration and delivery of software updates.
+Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building scalable, high-performance backend systems, RESTful API design and microservices architecture, Strong knowledge of system design principles, capable of designing robust and scalable systems that address complex requirements and enhance performance and reliability</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
