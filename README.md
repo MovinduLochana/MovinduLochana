@@ -12,7 +12,7 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 <h3>I have experience working with a variety of technologies, and the following are the ones that I excels</h3>
 
-<table>
+<table style="border:none">
 <tr>
 
 <td>
