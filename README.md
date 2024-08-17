@@ -31,20 +31,6 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 </td>
 <td>
-<h4 align="left">Mobile Frameworks</h4>
-<p align="left">
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-
-</p>
-
-</td>
-
-</tr>
-<tr>
-
-<td>
 <h4 align="left">Back End Frameworks</h4>
 
 <p align="left">
@@ -57,6 +43,30 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/330414/fastify.svg" alt="react" width="40" height="40"/></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+
+</p>
+
+
+</td>
+
+</tr>
+<tr>
+
+<td>
+
+<h4 align="left">DevOps</h4>
+<p align="left">
+<!-- helm -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353399/ansible.svg" alt="Ansible" width="40" height="40"/> </a>
+<a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448253/terraform.svg" alt="Terraform" width="40" height="40"/> </a>
+<a href="https://www.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331410/gitlab.svg" alt="GitLabCI" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373505/circleci.svg" alt="circleci" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 
 </p>
 
@@ -87,22 +97,14 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <tr>
 
 <td>
-
-<h4 align="left">DevOps</h4>
+<h4 align="left">Mobile Frameworks</h4>
 <p align="left">
-<!-- helm -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353399/ansible.svg" alt="Ansible" width="40" height="40"/> </a>
-<a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448253/terraform.svg" alt="Terraform" width="40" height="40"/> </a>
-<a href="https://www.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331410/gitlab.svg" alt="GitLabCI" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373505/circleci.svg" alt="circleci" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 
 </p>
+
 
 </td>
 
