@@ -15,7 +15,7 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <table style="border:none">
 <tr>
 
-<td>
+<td style="width:50%">
 
 <h4 align="left">Programming Languages</h4>
 <p align="left">
@@ -30,7 +30,7 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 </p>
 
 </td>
-<td>
+<td style="width:50%">
 <h4 align="left">Mobile Frameworks</h4>
 <p align="left">
 
