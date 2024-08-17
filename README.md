@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Movindu Lochana</h1>
+ <h1 align="center">Hi 👋, I'm Movindu Lochana</h1>
 <p align="left">Passionate and results-driven Full Stack Developer with a robust skill set in Java, Python, Go, and JavaScript. With a solid background in DevOps practices and a deep understanding of CI/CD pipelines, Kubernetes, and Docker, automating deployments, and ensuring seamless integration and delivery of software updates.
 Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building scalable, high-performance backend systems, RESTful API design and microservices architecture, Strong knowledge of system design principles, capable of designing robust and scalable systems that address complex requirements and enhance performance and reliability</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/movindu-lochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/movindu-lochana" height="30" width="40" /></a>
-<a href="https://twitter.com/HAMLTWijethunge" target="blank"><img src="https://img.shields.io/twitter/follow/movindu?logo=twitter&style=for-the-badge" alt="movindu" /></a>
-<a href="https://twitter.com/HAMLTWijethunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="movindu" height="30" width="40" /></a>
+<a href="https://twitter.com/movindu" target="blank"><img src="https://img.shields.io/twitter/follow/movindu?logo=twitter&style=for-the-badge" alt="movindu" /></a>
+<a href="https://twitter.com/movindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="movindu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/movindu_lochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="movindulochana.395" height="30" width="40" /></a>
 </p>
 
 <h3>I have experience working with a variety of technologies, and the following are the ones that I excels</h3>
+
+<table>
+<tr>
+
+<td>
 
 <h4 align="left">Programming Languages</h4>
 <p align="left">
@@ -23,6 +28,9 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
+
+</td>
+<td>
 
 <h4 align="left">Back End Frameworks</h4>
 
@@ -39,6 +47,8 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 </p>
 
+</td>
+<td>
 
 <h4 align="left">FrontEnd Frameworks and Liblaries</h4>
 <p align="left">
@@ -58,6 +68,9 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 </p>
 
+</td>
+<td>
+
 <h4 align="left">Mobile Frameworks</h4>
 <p align="left">
 
@@ -66,7 +79,8 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 </p>
 
-
+</td>
+<td>
 
 <h4 align="left">DevOps</h4>
 <p align="left">
@@ -84,6 +98,13 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 </p>
 
+</td>
+
+</tr>
+<!-- ============================================================================================================================================================================================================== -->
+<tr>
+
+<td>
 <h4 align="left">Cloud Services and PaaS</h4>
 <p align="left">
 
@@ -95,8 +116,8 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
 
 </p>
-
-
+</td>
+<td>
 <h4 align="left">Databases</h4>
 <p align="left">
 
@@ -109,6 +130,8 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
 </p>
+</td>
+<td>
 
 <h4 align="left">AI ML Liblaries</h4>
 <p align="left">
@@ -122,6 +145,8 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 </p>
 
+</td>
+<td>
 <h4 align="left">Data Pipeling Frameworks</h4>
 <p align="left">
 
@@ -134,7 +159,8 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
 
 </p>
-
+</td>
+<td>
 <h4 align="left">Testing Frameworks</h4>
 <p align="left">
 
@@ -146,3 +172,7 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
 </p>
+</td>
+
+</tr>
+</table>
