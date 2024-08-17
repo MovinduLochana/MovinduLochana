@@ -48,6 +48,10 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 </p>
 
 </td>
+
+</tr>
+<tr>
+
 <td>
 
 <h4 align="left">FrontEnd Frameworks and Liblaries</h4>
@@ -80,6 +84,10 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 </p>
 
 </td>
+
+</tr>
+<tr>
+
 <td>
 
 <h4 align="left">DevOps</h4>
@@ -100,7 +108,6 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 </td>
 
-</tr>
 <!-- ============================================================================================================================================================================================================== -->
 <tr>
 
@@ -117,6 +124,11 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 
 </p>
 </td>
+
+</tr>
+<tr>
+
+
 <td>
 <h4 align="left">Databases</h4>
 <p align="left">
@@ -146,6 +158,11 @@ Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building sc
 </p>
 
 </td>
+
+</tr>
+<tr>
+
+
 <td>
 <h4 align="left">Data Pipeling Frameworks</h4>
 <p align="left">
