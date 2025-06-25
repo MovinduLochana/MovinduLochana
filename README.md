@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Movindu Lochana</h1>
-<p align="left">Passionate and results-driven Full Stack Developer with a robust skill set in Java, Python, Go, and JavaScript. With a solid background in DevOps practices and a deep understanding of CI/CD pipelines, Kubernetes, and Docker, automating deployments, and ensuring seamless integration and delivery of software updates.
-Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building scalable, high-performance backend systems, RESTful API design and microservices architecture, Strong knowledge of system design principles, capable of designing robust and scalable systems that address complex requirements and enhance performance and reliability</p>
+<p align="left">Passionate and results-driven Full Stack Developer with a robust skill set in Java, Python, Go, and JavaScript. With a solid background in DevOps practices and a deep understanding of CI/CD pipelines, Kubernetes, and Docker, automating deployments and ensure seamless integration and delivery of software updates.
+Proficient with tools like Jenkins, GitLab CI, and Ansible. Excel in building scalable, high-performance backend systems, RESTful API design and microservices architecture. Strong knowledge of system design principles, capable of designing robust and scalable systems that address complex requirements and enhance performance and reliability</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/movindu-lochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/movindu-lochana" height="30" width="40" /></a>
-<a href="https://x.com/HAMLTWijethunge" target="blank"><img src="https://img.shields.io/twitter/follow/movindu?logo=twitter&style=for-the-badge" alt="movindu" /></a>
-<a href="https://x.com/HAMLTWijethunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="movindu" height="30" width="40" /></a>
+<a href="https://x.com/wmovindulochana" target="blank"><img src="https://img.shields.io/twitter/follow/movindu?logo=twitter&style=for-the-badge" alt="movindu" /></a>
+<a href="https://x.com/wmovindulochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="movindu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/movindu_lochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="movindulochana.395" height="30" width="40" /></a>
 </p>
 
-<h3>I have experience working with a variety of technologies, and the following are the ones that I excels</h3>
+<h3>I have experience working with a variety of technologies, and the following are the ones that I excels </h3>
 
 <table style="border:none">
 <tr>
