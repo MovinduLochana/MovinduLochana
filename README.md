@@ -1,11 +1,3 @@
-<style>
-  table {
-    width: 100%;
-  }
-  body {
-    margin: 0;
-  }
-</style>
 <h1 align="center">Hi 👋, I'm Movindu Lochana</h1>
 <p align="left">Passionate and results-driven Full Stack Developer with a robust skill set in Java, Python, Go, and
     JavaScript. With a solid background in DevOps practices and a deep understanding of CI/CD pipelines, Kubernetes, and
@@ -33,7 +25,7 @@
 
 <table style="border:none; width: 100%;">
     <tr>
-        <td>
+        <td width="50%">
             <h4 align="left">Programming Languages</h4>
             <p align="left">
                 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -75,7 +67,7 @@
                 </a>            
                 </p>
         </td>
-        <td>
+        <td width="50%">
             <h4 align="left">Back End Frameworks</h4>
             <p align="left">
                 <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -122,7 +114,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td width="50%">
             <h4 align="left">DevOps</h4>
             <p align="left">
                 <!-- helm -->
@@ -166,7 +158,7 @@
                 </a>           
                  </p>
         </td>
-        <td>
+        <td width="50%">
             <h4 align="left">FrontEnd Frameworks and Liblaries</h4>
             <p align="left">
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -211,7 +203,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td width="50%">
             <h4 align="left">Mobile Frameworks</h4>
             <p align="left">
                 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -223,7 +215,7 @@
                 </a>
             </p>
         </td>
-        <td>
+        <td width="50%">
             <h4 align="left">Cloud Services and PaaS</h4>
             <p align="left">
                 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -263,7 +255,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td width="50%">
             <h4 align="left">Databases</h4>
             <p align="left">
                 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -300,7 +292,7 @@
                 </a>            
                 </p>
         </td>
-        <td>
+        <td width="50%">
             <h4 align="left">AI ML Liblaries</h4>
             <p align="left">
                 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -324,7 +316,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td width="50%">
             <h4 align="left">Data Visualization and Monitoring</h4>
             <p align="left">
                 <!-- prometheus -->
@@ -349,7 +341,7 @@
                 </a>           
                  </p>
         </td>
-        <td>
+        <td width="50%">
             <h4 align="left">Testing Frameworks</h4>
             <p align="left">
                 <a href="https://sentry.io" target="_blank" rel="noreferrer">
@@ -376,7 +368,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td width="50%">
             <h4 align="left">ORMs</h4>
             <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img
                     src="https://www.svgrepo.com/show/353874/hibernate.svg" alt="Hibernate" height="40" />
@@ -389,7 +381,7 @@
                 <img src="https://avatars.githubusercontent.com/u/10077001?s=48&v=4" alt="sqlx" height="40" />
             </a>
         </td>
-        <td>
+        <td width="50%">
             <h4 align="left">Asynchronous</h4>
             <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="40" />
