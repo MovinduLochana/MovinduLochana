@@ -23,7 +23,7 @@
 
 <h3>I have experience working with a variety of technologies, and the following are the ones that I excels </h3>
 
-<table style="border:none">
+<table style="border:none; width: 100%">
     <tr>
         <td>
             <h4 align="left">Programming Languages</h4>
