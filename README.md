@@ -1,3 +1,11 @@
+<style>
+  table {
+    width: 100%;
+  }
+  body {
+    margin: 0;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Movindu Lochana</h1>
 <p align="left">Passionate and results-driven Full Stack Developer with a robust skill set in Java, Python, Go, and
     JavaScript. With a solid background in DevOps practices and a deep understanding of CI/CD pipelines, Kubernetes, and
@@ -23,7 +31,7 @@
 
 <h3>I have experience working with a variety of technologies, and the following are the ones that I excels </h3>
 
-<table style="border:none; width: 100%">
+<table style="border:none; width: 100%;">
     <tr>
         <td>
             <h4 align="left">Programming Languages</h4>
